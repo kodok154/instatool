@@ -4,11 +4,11 @@
 
 
 ## How to install (DEFAULT or BASIC USAGE)
-	* git clone https://github.com/kodok154/instatools
+	* git clone https://github.com/kodok154/instatool
 	* cd instatools
 	* unzip node_modules.zip
 	* pkg install nodejs-lts
-	* npm instal instagram private api
+	* npm instal-instagram-private-api
 	* ls
 	* Then select the tool you want to use!
 	* node filename
@@ -19,7 +19,7 @@
 	* Open Termux and Wait for Automatic Install of Termux.
 	* pkg install git
 	* pkg install nodejs
-	* git clone https://github.com/kodok154/instatools
+	* git clone https://github.com/kodok154/instatool
 	* cd instatools
 	* unzip node_modules.zip
 	* unzip node_modules.zip
