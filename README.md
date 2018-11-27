@@ -1,24 +1,15 @@
 # ![Image](Instagram2016_white-(64px).png) Instagram NODE JS API V1
 <br/>
 
+
+
 ## How to install (DEFAULT or BASIC USAGE)
-	* git clone https://github.com/rrudy0966/instatools
+	* git clone https://github.com/kodok154/instatools
 	* cd instatools
 	* unzip node_modules.zip
+	* pkg install nodejs-lts
+	* npm instal instagram private api
 	* ls
-	* Then select the tool you want to use!
-	* node filename
-<br/>
-
-## For PC/Laptop ONLY:
-	* Download GIT for Windows (https://git-scm.com/download/) *Choose WIN & 32bit/64bit
-	* Download NodeJS (https://nodejs.org/en/download/) *Choose .msi & 32bit/64bit
-	* INSTALL GIT for Windows & NodeJS
-	* Download File on Github (https://github.com/rrudy0966/instatools)
-	* Extract File instatools and enter the folder
-	* Right Click on Mouse, Then Select "Git Bash Here" (Make sure you are in the instatools folder!!!)
-	* Then type: unzip node_modules.zip
-	* To View The Contents Of a folder in bash, type: "ls" (without "")
 	* Then select the tool you want to use!
 	* node filename
 <br/>
@@ -28,48 +19,17 @@
 	* Open Termux and Wait for Automatic Install of Termux.
 	* pkg install git
 	* pkg install nodejs
-	* git clone https://github.com/rrudy0966/instatools
+	* git clone https://github.com/kodok154/instatools
 	* cd instatools
 	* unzip node_modules.zip
+	* unzip node_modules.zip
+	* pkg install nodejs-lts
 	* ls
 	* Then select the tool you want to use!
 	* node filename
 	
 <br/>
 
-## For CodeAnywhere/VPS (Centos):
-	* sudo yum -y update
-	* sudo yum -y install git
-	* sudo yum -y install unzip
-	* sudo yum -y install screen
-	* curl --silent --location https://rpm.nodesource.com/setup_10.x | sudo bash -
-	* sudo yum -y install nodejs
-
-	=========== Basic Usage ==============
-	* git clone https://github.com/rrudy0966/instatools
-	* cd instatools
-	* unzip node_modules.zip
-	* ls
-	* Then select the tool you want to use!
-	* node filename
-	
-	Kita buat session dulu ya!
-	* screen -S Instagram1 (Instagram1 = Nama Session)
-	Keluar dari session
-	* CTRL + A + D
-	Jika ingin mngecek prosesnya / kembali ke session Instagram1
-	* screen -r Instagram1
-	Kita buat session baru dulu ya!
-	* screen -S Instagram2 (Instagram2 = Nama Session Baru)
-	Keluar dari session
-	* CTRL + A + D
-	Jika ingin mngecek prosesnya / kembali ke session Instagram2
-	* screen -r Instagram2
-	Cara memberhentikan/stop tools
-	* screen -S Instagram1 -X kill (Instagram1 = Nama Session yang ingin di berhentikan)
-	Untuk melihat list session yang sedang berjalan
-	* screen -list
-<br/>
 
 ## INFORMATION:
 	* dellallphoto			"DELETE ALL POST IG"			(WORK & TESTED)
